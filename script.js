@@ -15,7 +15,7 @@ const divide = (arr, v) => {
 			r++;
 		}
 		else{
-		    console.log(a);
+		
 			res.push(a);
 			a = [];
 			a.push(arr[r]);
